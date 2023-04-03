@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides a list a list of publiscations from [DASHLab](https://dash-lab.github.io/) about Deepfake.
+This repository provides a list a list of publiscations from [DASHLab](https://dash-lab.github.io/) about Deepfakes.
 
 ### Dataset
 Our published datasets of deepfakes.
