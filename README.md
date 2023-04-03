@@ -37,7 +37,7 @@ Our published papers that related to detecting deepfake in low-quality compresse
 
 
 
-#### Continual learning
+### Continual learning
 Our published papers that related to applying continual learning to detect newly arrived deepfakes.
 
 #### Paper List:
@@ -47,7 +47,7 @@ Our published papers that related to applying continual learning to detect newly
 **`2021`**: `CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation` accepted by **ACMMM21**. [[paper](https://arxiv.org/abs/2107.02408)]
 
 
-#### Evading deepfake detectors and privacy
+### Evading deepfake detectors and privacy
 Our published papers that related to evasion techniques to fool deepfake detectors
 
 #### Paper List:
@@ -63,7 +63,7 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 **`2023`**: `Evaluating Racial Bias in Face Recognition APIs using Deepfakes` accepted by **IEEE Computer Magazine**. 
 
 
-#### Multi-model
+### Multi-model
 Our published papers that related to  applying multi model to detect deepfakes
 
 #### Paper List:
@@ -71,10 +71,10 @@ Our published papers that related to  applying multi model to detect deepfakes
 **`2022`**: `Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors` accepted by **ADGD21**. [[paper](https://arxiv.org/abs/2109.02993)]
 
 
-#### Miscelaneous - Detection method
+### Miscelaneous - Detection method
 
 
-### Paper List:
+#### Paper List:
 
 **`2019`**: `GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images` accepted by **ACMSAC19**. [[paper](https://dl.acm.org/doi/10.1145/3297280.3297410)]
 
