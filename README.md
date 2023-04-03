@@ -1,11 +1,11 @@
-<img src="asset/lab_icon.png" title="Logo" width="200" />
+<img src="asset/icon.png" title="Logo" width="500" />
 
 ## Introduction
 
 This repository provides a list a list of publiscations from [DASHLab](https://dash-lab.github.io/) about Deepfake.
 
 ### Dataset
-Our published dataset of deepfakes
+Our published datasets of deepfakes.
 
 #### Paper List:
 
@@ -15,7 +15,7 @@ Our published dataset of deepfakes
 **`2022`**: `Zoom-DF: A dataset for Video Conferencing Deepfake` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527195) ]
 
 ### Generalization
-Methods to generalize deepfake detectors
+Methods to generalize deepfake detectors.
 
 #### Paper List:
 
@@ -27,7 +27,7 @@ Methods to generalize deepfake detectors
 **`2021`**: `TAR: Generalized Forensic Framework to Detect Deepfakes using Weakly Supervised Learning` accepted by **IFIP-SEC 21**. [[paper](https://arxiv.org/abs/2105.06117)]
 
 ### Low-quality compressed deepfake detection
-Our published papers that related to detecting deepfake in low-quality compressed deepfakes.
+Our published papers that related to detecting low-quality compressed deepfakes.
 
 #### Paper List:
 
@@ -38,7 +38,7 @@ Our published papers that related to detecting deepfake in low-quality compresse
 
 
 ### Continual learning
-Our published papers that related to applying continual learning to detect newly arrived deepfakes.
+Our published papers that related to applying continual learning to detect newly arrived deepfakes/GAN.
 
 #### Paper List:
 
@@ -48,7 +48,7 @@ Our published papers that related to applying continual learning to detect newly
 
 
 ### Evading deepfake detectors and privacy
-Our published papers that related to evasion techniques to fool deepfake detectors
+Our published papers that related to evasion techniques to fool deepfake detectors.
 
 #### Paper List:
 
@@ -64,14 +64,14 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 
 
 ### Multi-model
-Our published papers that related to  applying multi model to detect deepfakes
+Our published papers that related to  applying multi model to detect deepfakes.
 
 #### Paper List:
 
 **`2022`**: `Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors` accepted by **ADGD21**. [[paper](https://arxiv.org/abs/2109.02993)]
 
 
-### Miscelaneous - Detection method
+### Detection method - miscellaneous
 
 
 #### Paper List:
