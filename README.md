@@ -12,7 +12,7 @@ Our published dataset of deepfakes
 **`2021`**: `FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset` accepted by **NeurIPS21**. [[paper](https://arxiv.org/abs/2108.05080)]
 
 
-**`2022`**: `Zoom-DF: A dataset for Video Conferencing Deepfake` accepted by **WDC22**. [paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527195) 
+**`2022`**: `Zoom-DF: A dataset for Video Conferencing Deepfake` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527195) ]
 
 ### Generalization
 Methods to generalize deepfake detectors
@@ -56,10 +56,9 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 
 **`2022`**: `Evading Deepfake Detectors via High-Quality Face Pre-Processing Methods` accepted by **ICPR22**. [[paper](https://ieeexplore.ieee.org/document/9956520)]
 
-**`2022`**: `Negative Adversarial Example Generation Against Naver’s Celebrity Recognition API` accepted by **WDC22**. [paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527193)
+**`2022`**: `Negative Adversarial Example Generation Against Naver’s Celebrity Recognition API` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527193)]
 
-**`2022`**: `A Face Pre-Processing Approach to Evade Deepfade Detector` accepted by **WDC22**. [paper](https://dl.acm.org/doi/10.1145/3494109.3527190)
-
+**`2022`**: `A Face Pre-Processing Approach to Evade Deepfade Detector` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/10.1145/3494109.3527190)]
 
 **`2023`**: `Evaluating Racial Bias in Face Recognition APIs using Deepfakes` accepted by **IEEE Computer Magazine**. 
 
@@ -69,7 +68,7 @@ Our published papers that related to  applying multi model to detect deepfakes
 
 #### Paper List:
 
-**`2022`**: `Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors` accepted by **ADGD21**. [paper](https://arxiv.org/abs/2109.02993)
+**`2022`**: `Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors` accepted by **ADGD21**. [[paper](https://arxiv.org/abs/2109.02993)]
 
 
 #### Miscelaneous - Detection method
@@ -77,17 +76,17 @@ Our published papers that related to  applying multi model to detect deepfakes
 
 ### Paper List:
 
-**`2019`**: `GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images` accepted by **ACMSAC19**. [paper](https://dl.acm.org/doi/10.1145/3297280.3297410)
+**`2019`**: `GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images` accepted by **ACMSAC19**. [[paper](https://dl.acm.org/doi/10.1145/3297280.3297410)]
 
 
-**`2020`**: `OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder` accepted by **CVPRW20**. [paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)
+**`2020`**: `OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder` accepted by **CVPRW20**. [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)]
 
-**`2020`**: `FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network`  accepted by **IFIP-SEC 20**. [paper](https://arxiv.org/abs/2001.01265)
+**`2020`**: `FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network`  accepted by **IFIP-SEC 20**. [[paper](https://arxiv.org/abs/2001.01265)]
 
-**`2021`**: `Exploring the Asynchronous of the Frequency Spectra of GAN-generated Facial Images` accepted by **IJCAIW21**. [paper](https://arxiv.org/abs/2112.08050)
+**`2021`**: `Exploring the Asynchronous of the Frequency Spectra of GAN-generated Facial Images` accepted by **IJCAIW21**. [[paper](https://arxiv.org/abs/2112.08050)]
 
 
-**`2022`**: `Deepfake Detection for Facial Images with Facemasks` accepted by **WDC22**. [paper](https://arxiv.org/abs/2202.11359)
+**`2022`**: `Deepfake Detection for Facial Images with Facemasks` accepted by **WDC22**. [[paper](https://arxiv.org/abs/2202.11359)]
 
 
 
