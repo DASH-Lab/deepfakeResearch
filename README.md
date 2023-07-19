@@ -30,6 +30,7 @@ Methods to generalize deepfake detectors.
 Our published papers that related to detecting low-quality compressed deepfakes.
 
 #### Paper List:
+**`2023`**: `Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning` accepted by **ICCV23**. [[paper](https://dash-lab.github.io/Publications/)]
 
 **`2022`**: `ADD: Frequency Attention and Multi-View Based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images` accepted by **AAAI22**. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/19886)]
 
