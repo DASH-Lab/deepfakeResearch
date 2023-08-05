@@ -8,6 +8,7 @@ This repository provides a list a list of publications from [DASHLab](https://da
 Our published datasets of deepfakes.
 
 #### Paper List:
+**`2021`**: `Towards Understanding of Deepfake Videos in the Wild` accepted by **CIKM23**. [[paper](https://dash-lab.github.io/Publications/)]
 
 **`2021`**: `FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset` accepted by **NeurIPS21**. [[paper](https://arxiv.org/abs/2108.05080)]
 
