@@ -54,6 +54,12 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 
 #### Paper List:
 
+
+**`2024`**: `Beyond the Screen: Evaluating Deepfake Detectors under Moir ́e Pattern Effects` accepted by **WMF-CVPR24**. [[paper]([https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf](https://arxiv.org/pdf/2407.10399))]
+
+**`2024`**: `Exploring the Impact of Moiré Pattern on Deepfake Detectors
+` accepted by **ICIP24**. [[paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf)]
+
 **`2022`**: `Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack` accepted by **WWW2022**. [[paper](https://arxiv.org/abs/2103.00847)]
 
 **`2022`**: `Evading Deepfake Detectors via High-Quality Face Pre-Processing Methods` accepted by **ICPR22**. [[paper](https://ieeexplore.ieee.org/document/9956520)]
@@ -78,19 +84,19 @@ Our published papers that related to  applying multi model to detect deepfakes.
 
 #### Paper List:
 
-**`2019`**: `GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images` accepted by **ACMSAC19**. [[paper](https://dl.acm.org/doi/10.1145/3297280.3297410)]
+**`2024`**: `iFakeDetector: Real Time Integrated Web-based Deepfake Detection System` accepted by *CIKM23**. [[paper]([https://arxiv.org/abs/2112.08050](https://www.ijcai.org/proceedings/2024/1016.pdf))]
 
+**`2023`**: `SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection` accepted by *CIKM23**. [[paper]([https://arxiv.org/abs/2202.11359](https://dl.acm.org/doi/abs/10.1145/3583780.3615279))]
+
+**`2022`**: `Deepfake Detection for Facial Images with Facemasks` accepted by **WDC22**. [[paper](https://arxiv.org/abs/2202.11359)]
+
+**`2021`**: `Exploring the Asynchronous of the Frequency Spectra of GAN-generated Facial Images` accepted by **IJCAIW21**. [[paper](https://arxiv.org/abs/2112.08050)]
 
 **`2020`**: `OC-FakeDect: Classifying Deepfakes Using One-class Variational Autoencoder` accepted by **CVPRW20**. [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Khalid_OC-FakeDect_Classifying_Deepfakes_Using_One-Class_Variational_Autoencoder_CVPRW_2020_paper.pdf)]
 
 **`2020`**: `FDFtNet: Facing Off Fake Images using Fake DetectionFine-tuning Network`  accepted by **IFIP-SEC 20**. [[paper](https://arxiv.org/abs/2001.01265)]
 
-**`2021`**: `Exploring the Asynchronous of the Frequency Spectra of GAN-generated Facial Images` accepted by **IJCAIW21**. [[paper](https://arxiv.org/abs/2112.08050)]
-
-
-**`2022`**: `Deepfake Detection for Facial Images with Facemasks` accepted by **WDC22**. [[paper](https://arxiv.org/abs/2202.11359)]
-
-
+**`2019`**: `GAN is a Friend or Foe? A Framework to Detect Various Fake Face Images` accepted by **ACMSAC19**. [[paper](https://dl.acm.org/doi/10.1145/3297280.3297410)]
 
 
 #### Research Project Involvements
