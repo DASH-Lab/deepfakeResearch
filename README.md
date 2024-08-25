@@ -55,10 +55,10 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 #### Paper List:
 
 
-**`2024`**: `Beyond the Screen: Evaluating Deepfake Detectors under Moir ́e Pattern Effects` accepted by **WMF-CVPR24**. [[paper]([https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf](https://arxiv.org/pdf/2407.10399))]
+**`2024`**: `Beyond the Screen: Evaluating Deepfake Detectors under Moir ́e Pattern Effects` accepted by **WMF-CVPR24**. [[paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf)]
 
 **`2024`**: `Exploring the Impact of Moiré Pattern on Deepfake Detectors
-` accepted by **ICIP24**. [[paper](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Tariq_Beyond_the_Screen_Evaluating_Deepfake_Detectors_under_Moire_Pattern_Effects_CVPRW_2024_paper.pdf)]
+` accepted by **ICIP24**. [[paper](https://arxiv.org/pdf/2407.10399)]
 
 **`2022`**: `Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack` accepted by **WWW2022**. [[paper](https://arxiv.org/abs/2103.00847)]
 
@@ -72,7 +72,7 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 
 
 ### Multi-model
-Our published papers that related to  applying multi model to detect deepfakes.
+Our published papers that related to  applying multi-model to detect deepfakes.
 
 #### Paper List:
 
@@ -84,9 +84,9 @@ Our published papers that related to  applying multi model to detect deepfakes.
 
 #### Paper List:
 
-**`2024`**: `iFakeDetector: Real Time Integrated Web-based Deepfake Detection System` accepted by *CIKM23**. [[paper]([https://arxiv.org/abs/2112.08050](https://www.ijcai.org/proceedings/2024/1016.pdf))]
+**`2024`**: `iFakeDetector: Real Time Integrated Web-based Deepfake Detection System` accepted by *IJCAI24**. [[paper](https://www.ijcai.org/proceedings/2024/1016.pdf)]
 
-**`2023`**: `SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection` accepted by *CIKM23**. [[paper]([https://arxiv.org/abs/2202.11359](https://dl.acm.org/doi/abs/10.1145/3583780.3615279))]
+**`2023`**: `SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection` accepted by *CIKM23**. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615279)]
 
 **`2022`**: `Deepfake Detection for Facial Images with Facemasks` accepted by **WDC22**. [[paper](https://arxiv.org/abs/2202.11359)]
 
