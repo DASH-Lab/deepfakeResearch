@@ -44,9 +44,9 @@ Our published papers that related to applying continual learning to detect newly
 
 #### Paper List:
 
-**`2020`**: `T-GD: Transferable GAN-generated Images Detection Framework` accepted by **ICML20**. [[paper](https://arxiv.org/abs/2008.04115)]
-
 **`2021`**: `CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation` accepted by **ACMMM21**. [[paper](https://arxiv.org/abs/2107.02408)]
+
+**`2020`**: `T-GD: Transferable GAN-generated Images Detection Framework` accepted by **ICML20**. [[paper](https://arxiv.org/abs/2008.04115)]
 
 
 ### Evading deepfake detectors and privacy
@@ -60,6 +60,8 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 **`2024`**: `Exploring the Impact of Moiré Pattern on Deepfake Detectors
 ` accepted by **ICIP24**. [[paper](https://arxiv.org/pdf/2407.10399)]
 
+**`2023`**: `Evaluating Racial Bias in Face Recognition APIs using Deepfakes` accepted by **IEEE Computer Magazine**. 
+
 **`2022`**: `Am I a Real or Fake Celebrity? Evaluating Face Recognition and Verification APIs under Deepfake Impersonation Attack` accepted by **WWW2022**. [[paper](https://arxiv.org/abs/2103.00847)]
 
 **`2022`**: `Evading Deepfake Detectors via High-Quality Face Pre-Processing Methods` accepted by **ICPR22**. [[paper](https://ieeexplore.ieee.org/document/9956520)]
@@ -68,9 +70,6 @@ Our published papers that related to evasion techniques to fool deepfake detecto
 
 **`2022`**: `A Face Pre-Processing Approach to Evade Deepfade Detector` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/10.1145/3494109.3527190)]
 
-**`2023`**: `Evaluating Racial Bias in Face Recognition APIs using Deepfakes` accepted by **IEEE Computer Magazine**. 
-
-
 ### Multi-model
 Our published papers that related to  applying multi-model to detect deepfakes.
 
@@ -78,11 +77,12 @@ Our published papers that related to  applying multi-model to detect deepfakes.
 
 **`2022`**: `Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors` accepted by **ADGD21**. [[paper](https://arxiv.org/abs/2109.02993)]
 
-
 ### Detection method - miscellaneous
 
 
 #### Paper List:
+
+**`2024`**: `UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints` accepted by *CIKM24**. [[paper](https://cikm2024.org/)]
 
 **`2024`**: `iFakeDetector: Real Time Integrated Web-based Deepfake Detection System` accepted by *IJCAI24**. [[paper](https://www.ijcai.org/proceedings/2024/1016.pdf)]
 
