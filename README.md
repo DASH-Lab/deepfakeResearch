@@ -10,10 +10,10 @@ Our published datasets of deepfakes.
 #### Paper List:
 **`2023`**: `Towards Understanding of Deepfake Videos in the Wild` accepted by **CIKM23**. [[paper](https://dash-lab.github.io/Publications/)]
 
+**`2022`**: `Zoom-DF: A dataset for Video Conferencing Deepfake` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527195) ]
+
 **`2021`**: `FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset` accepted by **NeurIPS21**. [[paper](https://arxiv.org/abs/2108.05080)]
 
-
-**`2022`**: `Zoom-DF: A dataset for Video Conferencing Deepfake` accepted by **WDC22**. [[paper](https://dl.acm.org/doi/abs/10.1145/3494109.3527195) ]
 
 ### Generalization
 Methods to generalize deepfake detectors.
