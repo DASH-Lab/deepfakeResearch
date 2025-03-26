@@ -81,6 +81,7 @@ Our published papers that related to  applying multi-model to detect deepfakes.
 
 
 #### Paper List:
+**`2025`**: `SoK: Systematization and Benchmarking of Deepfake Detectors in a Unified Framework` accepted by *Euro S&P' 25**. [[paper](https://arxiv.org/pdf/2401.04364)]
 
 **`2024`**: `UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints` accepted by *CIKM24**. [[paper](https://cikm2024.org/)]
 
