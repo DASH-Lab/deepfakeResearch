@@ -81,13 +81,13 @@ Our published papers that related to  applying multi-model to detect deepfakes.
 
 
 #### Paper List:
-**`2025`**: `SoK: Systematization and Benchmarking of Deepfake Detectors in a Unified Framework` accepted by *Euro S&P' 25**. [[paper](https://arxiv.org/pdf/2401.04364)]
+**`2025`**: `SoK: Systematization and Benchmarking of Deepfake Detectors in a Unified Framework` accepted by **Euro S&P' 25**. [[paper](https://arxiv.org/pdf/2401.04364)]
 
-**`2024`**: `UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints` accepted by *CIKM24**. [[paper](https://cikm2024.org/)]
+**`2024`**: `UGAD: Universal Generative AI Detector utilizing Frequency Fingerprints` accepted by **CIKM24**. [[paper](https://cikm2024.org/)]
 
-**`2024`**: `iFakeDetector: Real Time Integrated Web-based Deepfake Detection System` accepted by *IJCAI24**. [[paper](https://www.ijcai.org/proceedings/2024/1016.pdf)]
+**`2024`**: `iFakeDetector: Real Time Integrated Web-based Deepfake Detection System` accepted by **IJCAI24**. [[paper](https://www.ijcai.org/proceedings/2024/1016.pdf)]
 
-**`2023`**: `SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection` accepted by *CIKM23**. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615279)]
+**`2023`**: `SAFE: Sequential Attentive Face Embedding with Contrastive Learning for Deepfake Video Detection` accepted by **CIKM23**. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615279)]
 
 **`2022`**: `Deepfake Detection for Facial Images with Facemasks` accepted by **WDC22**. [[paper](https://arxiv.org/abs/2202.11359)]
 
